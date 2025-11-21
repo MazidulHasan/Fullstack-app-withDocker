@@ -1,8 +1,6 @@
-version: '3.8'
-
 services:
   backend:
-    build: ./backend
+    build: ./backEnd
     container_name: backend-api
     ports:
       - "8000:8000"
