@@ -78,8 +78,3 @@ pytest tests/ -v
 ## Database
 
 The application uses SQLite database (`app.db` file) which will be created automatically when you first run the application.
-
-## Next Steps
-- Add Docker containerization
-- Create frontend
-- Setup CI/CD pipeline

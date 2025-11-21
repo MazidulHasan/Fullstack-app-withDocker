@@ -45,11 +45,3 @@ frontend/
 ├── .env              # Environment variables
 └── vite.config.js    # Vite configuration
 ```
-
-## Important Notes
-
-**CORS Issue**: The backend needs to allow requests from the frontend. We need to add CORS middleware to the backend.
-
-## Next Steps
-- Dockerize the frontend
-- Use Docker Compose to connect frontend and backend
